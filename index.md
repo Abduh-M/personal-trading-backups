@@ -15,3 +15,5 @@ provide access to backups, trading accounts or Google credentials.
 
 For questions, contact the maintainer through
 [GitHub](https://github.com/Abduh-M).
+
+Personal backup documentation.
